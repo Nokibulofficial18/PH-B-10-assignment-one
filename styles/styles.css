@@ -209,3 +209,52 @@
     gap: 20px;
 }
 /* pics and quotes ends here */
+/* inspiration starts here */
+#My-insperation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 48px;
+}
+#My-insperation .des{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: 0 auto;
+    padding: 30px;
+
+    
+}
+#My-insperation .yt-video .iframe{
+    max-width: 1076px;
+    width: 100%;
+    height: auto;
+    
+    border-radius: 8px;
+}
+#My-insperation .des .inspiret{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#My-insperation .des .inspiresub{
+    margin: 0 auto;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+/* inspiration ends here */
