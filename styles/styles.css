@@ -437,6 +437,7 @@
     margin: 0 auto;
     width: 1015px;
     height: 280px;
+    margin-bottom: 20px;
 }
 #supporting .supporting-me{
     width: 1015px;
@@ -505,4 +506,37 @@
 }
 /* support ends here */
 /* footer starts here */
+#footer{
+    margin-left: 150px;
+    width: 1015px;
+    display: flex;
+    justify-content: space-around;
+    align-items:self-start;
+}
+#footer .fotter-title{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 0;
+}
+#footer .social-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+#footer .social-icon a{
+    margin: 0 10px;
+    
+}
+#footer .social-icon img{
+    width: 26px;
+    height: 26px;
+}
 /* footer ends here */
