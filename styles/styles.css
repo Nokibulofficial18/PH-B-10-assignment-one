@@ -415,6 +415,8 @@
     margin-bottom: 20px;
 }
 .ne-target-subtitle{
+    margin-left: 160px;
+    margin-right: 160px;
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 12px;
@@ -424,6 +426,7 @@
     text-align: center;
     opacity: 0.7;
     margin-bottom: 10px;
+    
 }
 /* my next targets ends here */
 /* support starts here */
