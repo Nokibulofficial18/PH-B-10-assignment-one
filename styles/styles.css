@@ -430,7 +430,7 @@
 }
 /* my next targets ends here */
 /* support starts here */
-#support{
+#supporting{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -438,7 +438,7 @@
     width: 1015px;
     height: 280px;
 }
-#support .support-me{
+#supporting .supporting-me{
     width: 1015px;
     height: 100%;
     display: flex;
@@ -452,7 +452,7 @@
     background-position: center;
     background-size: cover;
 }
-.support-me .support-title{
+.supporting-me .supporting-title{
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
     font-size: 26px;
@@ -462,7 +462,7 @@
     text-align: center;
     margin-bottom: 10px;
 }
-.support-me .support-subtitle{
+.supporting-me .supporting-subtitle{
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
     font-size: 12px;
@@ -473,7 +473,7 @@
     opacity: 0.7;
     margin-bottom: 20px;
 }
-.support-me input[type="text"]{
+.supporting-me input[type="text"]{
     position: static;
     width: 487px;
     height: 40px;
@@ -488,7 +488,7 @@
     letter-spacing: 0%;
     text-align: center;
 }
-.support-me input[type="submit"]{
+.supporting-me input[type="submit"]{
     border-radius: 8px;
     background: rgb(255, 255, 255);
     position: static;
@@ -504,3 +504,5 @@
     cursor: pointer;
 }
 /* support ends here */
+/* footer starts here */
+/* footer ends here */
